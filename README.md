@@ -9,7 +9,7 @@
 
 ##
 
-- 👨‍🎓📚 Estudante de Eng. da computação <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+- 👨‍🎓📚 Estudante de Eng. da computação 4° periodo <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 - 
 
 ##
